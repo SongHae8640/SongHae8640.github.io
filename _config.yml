@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SongHae8640's blog"
+title                    : "지극히 주관적인"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Song Hae"
@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "지주"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "보고 듣고 생각한것을 지극히 주관적으로 쓴다."
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
