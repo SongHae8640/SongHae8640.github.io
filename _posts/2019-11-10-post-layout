@@ -1,0 +1,37 @@
+---
+title: "post title"
+date: 2017-10-20 08:26:28 -0400
+categories: category1 category2
+---
+문제 링크 : https://www.
+------------------------------------------------
+
+#### 풀이방법 
+
+
+1. 한줄씩 입력을 받는다.
+
+> 1.1. 입력받은 줄의 말 상태를 배열로 저장한다.
+
+> 1.2. 하얀칸이면서 말이 폰이면 폰의 개수를 증가시킨다. 
+
+
+2. 하얀칸에 있는 폰의 갯수를 출력한다.
+
+
+
+
+#### 성능을 높이는 방법
+
+
+
+
+##### 코드 및 결과
+<img data-action="zoom" src='https://SongHae8640.github.io/asset/img/No1100WhiteBlankResult.JPG' alt='absolute'>
+
+
+<script src="https://gist.github.com/SongHae8640/3db7bd85532c70ff288ff21832b47331.js"></script>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
